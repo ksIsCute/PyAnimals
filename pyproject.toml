@@ -5,7 +5,7 @@ description = "Get animal images and facts with easy plug-and-play syntax!"
 authors = ["Cesiyi, ksIsCute"]
 license = "MIT"
 readme = "PyAnimals/README.md"
-repository = ""
+repository = "https://github.com/ksIsCute/PyAnimals"
 
 [tool.poetry.dependencies]
 python = ">=3.8.0,<3.9"
